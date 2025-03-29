@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Bubble_Sort.props" />
+</Project>
