@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Kadane's_Algorithm.props" />
+</Project>
