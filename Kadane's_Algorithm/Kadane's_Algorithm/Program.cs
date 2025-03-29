@@ -25,7 +25,7 @@ class Program
             if (currentSum > maxSum)
             {
                 maxSum = currentSum; 
-                start = tempStart;     // Yeni alt dizinin bitişini güncelle
+                start = tempStart;   
             }
         }
 
