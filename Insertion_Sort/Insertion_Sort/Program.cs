@@ -1,7 +1,6 @@
 using System;
 using System.Diagnostics;
 
-// Kullanıcıdan alınan bir diziyi artan veya azalan şekilde sıralar ve sıralama süresini ölçerek ekrana yazdırır.
 class Program
 {
     static void InsertionSort(int[] array, bool ascending = true)
